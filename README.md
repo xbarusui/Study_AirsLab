@@ -3,7 +3,7 @@
 ## このページは
 このページは2021年10月15日（金）開催の [Airs-Lab](https://www.airs-lab.jp/) の勉強会用資料です。
 
-各ページの ipnb を開いて、「Open in Colab」ボタンを押して下さい。
+各ページの ipynb を開いて、「Open in Colab」ボタンを押して下さい。
 
 ## アジェンダ
 
