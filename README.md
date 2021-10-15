@@ -15,5 +15,5 @@
 
 
 ## できなかったこと、後の宿題
-・Streamlit sharing で !python を利用した処理（OSコマンドではなく関数で引数を渡すようにする）
-・GoogleColabのサーバからGithubへの連携をnotebookから実行（できなくはないがセキュリティ上の考慮ができていないため、手動で我慢）
+- Streamlit sharing で !python を利用した処理（OSコマンドではなく関数で引数を渡すようにする）
+- GoogleColabのサーバからGithubへの連携をnotebookから実行（できなくはないがセキュリティ上の考慮ができていないため、手動で我慢）
